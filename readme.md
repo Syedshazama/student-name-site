@@ -1,1 +1,4 @@
-Hii i am syed. i love playing games. and i complted my project based on spur gears
+Hii I  am syed. i love playing games. 
+I completed my project based on spur gears
+Done internship on python
+ 
